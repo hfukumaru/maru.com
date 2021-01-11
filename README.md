@@ -29,6 +29,5 @@ AppService | SQLデータベース | LogicApps | AzureFunctions |
 【担当業務】<br>
 - ～を使った〇〇 
 <br>
-【工夫した点】
-- ～を使った〇〇
-- ～を使った〇〇
+【工夫した点】<br>
+- ～を使った〇〇 
